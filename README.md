@@ -88,5 +88,7 @@ target customers more effectively, and improve overall profitability.
 ---
 
 ## 👩‍💻 Author
-**Amruta Pundkar**  
+**Amruta Pundkar**
+**Email :** amrutapundkar2004@gmail.com
 _Data Analytics Enthusiast_
+
